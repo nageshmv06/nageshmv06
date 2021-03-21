@@ -18,5 +18,6 @@ Here are some ideas to get you started:
 
 <br>
 <br>
-
+<!--
 <img align='right' src='https://media.giphy.com/media/WodOtJNNNQEXRSSXp2/giphy.gif?raw=true' width='320"'>
+-->
