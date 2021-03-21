@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+<img align='right' src='https://media.giphy.com/media/WodOtJNNNQEXRSSXp2/giphy.gif?raw=true' width='320"'>
 ![Nagesh's Github Stats](https://github-readme-stats.vercel.app/api?username=nageshmv06&show_icons=true&theme=tokyonight)
