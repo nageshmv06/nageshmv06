@@ -8,8 +8,8 @@
 - :octocat: I am open to collaborate with other web developers.
 - :books: Learning new things, self driven, hard working and friendly.:smiley:
 - 💬 Ask me about anything
-
- ### Languages and Tools:
+<br>
+### Languages and Tools:
  <p align="left"> 
  <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
  <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
@@ -25,7 +25,7 @@
  <a href="https://www.python.org/" target="_blank"><img align="left" alt="Python" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" /></a>
  <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank"><img width="40px" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" /></a> 
 </p>
- <br>
+<br>
  
  ### :computer: Contact me on:
   <a href="https://www.linkedin.com/in/nagesh-mv-985856193/" target="_blank"> <img align="left" alt="Nagesh | LinkedIn" width="30" height="30" src="https://media-exp1.licdn.com/dms/image/C4D0BAQGyOWvr4W0Pow/company-logo_200_200/0/1590003577120?e=2159024400&v=beta&t=CtsDFVp0TAdwyg73A8F82MohzKpAQy-pUGA13atPG6A" /></a> <a href="https://www.instagram.com/_nageshmv/" target="_blank"> <img align="left" alt="Nagesh | Instagram" width="30" height="30" src="https://www.orissapost.com/wp-content/uploads/2021/02/unnamed-1.png" /></a><a href="https://codepen.io/nageshmv06" target="_blank"><img align="left" alt="Nagesh | Codepen" width="30" height="30" src="https://cdn0.iconfinder.com/data/icons/social-media-2091/100/social-32-512.png"/></a><a href="https://twitter.com/nageshmv06" target="_blank"><img align="left" alt="Nagesh | Twitter" width="30" height="30" src="https://image.flaticon.com/icons/png/512/124/124021.png"/></a>
