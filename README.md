@@ -23,7 +23,7 @@
  <a href="https://www.java.com/en/" target="_blank"><img width="40px" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" /> </a>
  <a href="https://www.photoshop.com/en" target="_blank"><img align="left" alt="Photoshop" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" /></a>
  <a href="https://www.python.org/" target="_blank"><img align="left" alt="Python" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" /></a>
- <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" /></a>
+ <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank"><img width="40px src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" /></a>
  </p> 
  
 - 📫 How to reach me:<br> Mail- nageshmv18@gmail.com<br>
