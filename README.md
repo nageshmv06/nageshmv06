@@ -3,7 +3,7 @@
 <!--
 **nageshmv06/nageshmv06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+ <img align='right' src='https://media.giphy.com/media/WodOtJNNNQEXRSSXp2/giphy.gif?raw=true' width='320"'>   
 
 - 🔭 I’m currently working on Web development 
 - 🌱 I’m currently learning Machine Learning 🔧
