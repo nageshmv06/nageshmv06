@@ -26,13 +26,10 @@
  <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank"><img width="40px" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" /></a>
  
  ###  :computer: Contact me on:
-<a href="https://www.linkedin.com/in/nagesh-mv-985856193/" target="_blank"> <img align="left" alt="Nagesh | LinkedIn" width="22px" src="https://media-exp1.licdn.com/dms/image/C4D0BAQGyOWvr4W0Pow/company-logo_200_200/0/1590003577120?e=2159024400&v=beta&t=CtsDFVp0TAdwyg73A8F82MohzKpAQy-pUGA13atPG6A" /></a> <a href="https://www.instagram.com/_nageshmv/" target="_blank"> <img align="left" alt="Nagesh | Instagram" width="22px" src="https://www.orissapost.com/wp-content/uploads/2021/02/unnamed-1.png" /></a><a href="https://codepen.io/nageshmv06" target="_blank"><img align="left" alt="Nagesh | Codepen" width="22px" src="https://cdn0.iconfinder.com/data/icons/social-media-2091/100/social-32-512.png"/></a><a href="https://twitter.com/nageshmv06" target="_blank"><img align="left" alt="Nagesh | Twitter" width="22px" src="https://image.flaticon.com/icons/png/512/124/124021.png"/></a>
+  <a href="https://www.linkedin.com/in/nagesh-mv-985856193/" target="_blank"> <img align="left" alt="Nagesh | LinkedIn" width="22px" src="https://media-exp1.licdn.com/dms/image/C4D0BAQGyOWvr4W0Pow/company-logo_200_200/0/1590003577120?e=2159024400&v=beta&t=CtsDFVp0TAdwyg73A8F82MohzKpAQy-pUGA13atPG6A" /></a> <a href="https://www.instagram.com/_nageshmv/" target="_blank"> <img align="left" alt="Nagesh | Instagram" width="22px" src="https://www.orissapost.com/wp-content/uploads/2021/02/unnamed-1.png" /></a><a href="https://codepen.io/nageshmv06" target="_blank"><img align="left" alt="Nagesh | Codepen" width="22px" src="https://cdn0.iconfinder.com/data/icons/social-media-2091/100/social-32-512.png"/></a><a href="https://twitter.com/nageshmv06" target="_blank"><img align="left" alt="Nagesh | Twitter" width="22px" src="https://image.flaticon.com/icons/png/512/124/124021.png"/></a>
  </p> 
  
-- 📫 How to reach me:<br> Mail- nageshmv18@gmail.com<br>
-                       Instagram - [Instagram](https://www.instagram.com/nageshmv06/)<br>
-                       LinkedIn - [LinkedIn](https://www.linkedin.com/in/nagesh-mv-985856193/)
-<br><br>
+
 
 ### 🏆 My Github Stats
 ![My Github Status](https://github-readme-stats.vercel.app/api?username=nageshmv06&hide_border=true&show_icons=true&line_height=33&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite)
