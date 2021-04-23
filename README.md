@@ -8,7 +8,7 @@
 - :octocat: I am open to collaborate with other web developers.
 - :books: Learning new things, self driven, hard working and friendly.:smiley:
 - 💬 Ask me about anything
-- 
+
  ### Languages and Tools:
  <p align="left"> 
  <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
