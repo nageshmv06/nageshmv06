@@ -1,9 +1,12 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Nagesh M V</h1>
 
 <img align='right' src='https://media.giphy.com/media/WodOtJNNNQEXRSSXp2/giphy.gif?raw=true' width='320"'>   
 
 - 🔭 I’m currently working on Web development 
+- ❤️ I love to code, photoshop, build websites and web applications.
 - 🌱 I’m currently learning Machine Learning 🔧
+- :octocat: I am open to collaborate with other web developers.
+- :books: Learning new things, self driven, hard working and friendly.:smiley:
 - 💬 Ask me about anything
 - 📫 How to reach me:<br> Mail- nageshmv18@gmail.com<br>
                        Instagram - [Instagram](https://www.instagram.com/nageshmv06/)<br>
