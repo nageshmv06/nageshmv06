@@ -24,6 +24,9 @@
  <a href="https://www.photoshop.com/en" target="_blank"><img align="left" alt="Photoshop" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" /></a>
  <a href="https://www.python.org/" target="_blank"><img align="left" alt="Python" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" /></a>
  <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank"><img width="40px" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" /></a>
+ 
+ ###  :computer: Contact me on:
+<a href="https://www.linkedin.com/in/nagesh-mv-985856193/" target="_blank"> <img align="left" alt="dianavile | LinkedIn" width="22px" src="https://media-exp1.licdn.com/dms/image/C4D0BAQGyOWvr4W0Pow/company-logo_200_200/0/1590003577120?e=2159024400&v=beta&t=CtsDFVp0TAdwyg73A8F82MohzKpAQy-pUGA13atPG6A" /></a> <a href="https://medium.com/@diana.vile" target="_blank"> <img align="left" alt="dianavile | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" /></a><a href="https://codesandbox.io/u/dianavile" target="_blank"><img align="left" alt="dianavile | CodeSandbox" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg"/></a><a href="https://dribbble.com/dianavile" target="_blank"><img align="left" alt="dianavile | Dribble" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dribbble.svg"/></a>
  </p> 
  
 - 📫 How to reach me:<br> Mail- nageshmv18@gmail.com<br>
