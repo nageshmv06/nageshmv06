@@ -41,7 +41,7 @@
 ---
 ### 🏆 My Github Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nageshmv06&show_icons=true&theme=tokyonight&line_height=42" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nageshmv06&show_icons=true&theme=tokyonight&line_height=44" />
   <img width="37.2%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nageshmv06&count_private=true&theme=tokyonight&line_height=52" />
 </p>
 
