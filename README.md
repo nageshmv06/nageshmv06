@@ -45,6 +45,10 @@
   <img width="37.2%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nageshmv06&count_private=true&theme=tokyonight&line_height=52" />
 </p>
 
+<p align="center">
+ <img width="37.2%" src="https://github-readme-streak-stats.herokuapp.com/?user=nageshmv06&theme=dark" />
+</p>
+
 
 
 
