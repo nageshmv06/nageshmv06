@@ -2,9 +2,9 @@
 
 <img align='right' src='https://media.giphy.com/media/WodOtJNNNQEXRSSXp2/giphy.gif?raw=true' width='320"'>   
 
-- 🔭 I’m currently working on Web development 
+- 🔭 I’m currently working on Vanilla JavaScript
 - ❤️ I love to code, photoshop, build websites and web applications.
-- 🌱 I’m currently learning Machine Learning 🔧
+- 🌱 I’m currently learning DS and Algo 🔧
 - :octocat: I am open to collaborate with other web developers.
 - :books: Learning new things, self driven, hard working and friendly.:smiley:
 - 💬 Ask me about anything
