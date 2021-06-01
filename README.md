@@ -2,7 +2,7 @@
 
 <img align='right' src='https://media.giphy.com/media/WodOtJNNNQEXRSSXp2/giphy.gif?raw=true' width='320"'>   
 
-- 🔭 I’m currently working on Sass
+- 🔭 I’m currently working on NodeJS
 - ❤️ I love to code, photoshop, build websites and web applications.
 - 🌱 I’m currently learning DS and Algo 🔧
 - :octocat: I am open to collaborate with other web developers.
