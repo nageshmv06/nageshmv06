@@ -2,8 +2,8 @@
 
 <img align='right' src='https://media.giphy.com/media/WodOtJNNNQEXRSSXp2/giphy.gif?raw=true' width='320"'>   
 
-- 🔭 I’m currently working on NodeJS
-- ❤️ I love to code, photoshop, build websites and web applications.
+- 🔭 I’m currently working on node.js
+- ❤️ I love to code, build websites and web applications.
 - 🌱 I’m currently learning DS and Algo 🔧
 - :octocat: I am open to collaborate with other web developers.
 - :books: Learning new things, self driven, hard working and friendly.:smiley:
@@ -22,7 +22,6 @@
   <img align="left" alt="GitHub" width="40px" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" />
  <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" width="40" height="40"/> </a>
  <a href="https://www.java.com/en/" target="_blank"><img width="40px" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" /> </a>
- <a href="https://www.photoshop.com/en" target="_blank"><img align="left" alt="Photoshop" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" /></a>
  <a href="https://www.python.org/" target="_blank"><img align="left" alt="Python" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" /></a>
  <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank"><img width="40px" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" /></a> 
 </p>
